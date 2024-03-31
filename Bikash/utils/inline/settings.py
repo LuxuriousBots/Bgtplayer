@@ -24,13 +24,10 @@ def setting_markup(_):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 YouTube 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="» ʏᴏᴜᴛᴜʙᴇ «", url=f"https://youtube.com/@LuxuriousNetwork?si=YfF9vtMSWYNy3MY2"
             ),
         ],
         [
-            InlineKeyboardButton(
-                text="💖 Support 💖", url=f"{SUPPORT_GROUP}",
-            ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"], callback_data="close"
             ),
