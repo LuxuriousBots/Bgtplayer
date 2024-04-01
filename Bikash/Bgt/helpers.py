@@ -173,16 +173,6 @@ HELP_15 = """**<u>IMAGE FUNCTION:</u>**
 
 /image - Get Image """
 
-HELP_16 = """**<u>MORE FUNCTION:</u>**
-
-/ask - ask Anything 
-
-/bikash - check who is Bikash
-
-/owner - check who is creator of this repo
-
-/donate - donate for bot owner 🙂"""
-
 HELP_17 = """**<u>REPO FUNCTION:</u>**
 
 /repo - for repo """
