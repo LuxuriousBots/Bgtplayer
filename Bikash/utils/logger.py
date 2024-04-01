@@ -11,21 +11,15 @@ async def play_logs(message, streamtype):
             chatusername = "Private Chat"
         logger_text = f""" ━━━━━━━━━━━━━━━━━━━━━━━     
 **{MUSIC_BOT_NAME} Play Logger**
-┏━━━━━━━━━━━━━━━━━┓
-       ༺Chat Info༻
-┗━━━━━━━━━━━━━━━━━┛      
+𒊹︎︎︎Chat Info𒊹︎︎︎   
 ┣★**Chat:** {message.chat.title} [`{message.chat.id}`]
 ┣★**Chat Link:** {chatusername}
-┏━━━━━━━━━━━━━━━━━┓
-       ༺User Info༻
-┗━━━━━━━━━━━━━━━━━┛ 
+𒊹︎︎︎User Info𒊹︎︎︎
 ┣★**User:** {message.from_user.mention}
 
 ┣★**UserName:** @{message.from_user.username}
 ┣★**Id:** `{message.from_user.id}`
-┏━━━━━━━━━━━━━━━━━┓
-       ༺Play Info༻
-┗━━━━━━━━━━━━━━━━━┛ 
+𒊹︎︎︎Play Info𒊹︎︎︎
 ┣★**Search Song:** {message.text}
 
 ┣★**Stream Type:** {streamtype}
