@@ -1,12 +1,12 @@
 name : 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 
 # General Strings
-general_1 : "Reply to a user's message or give username/user_id."
-general_2 : "Error! Wrong Usage of Command."
+general_1 : "ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜsᴇʀ's ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ username/user_id."
+general_2 : "Error! ᴡʀᴏɴɢ ᴜsᴀɢᴇ ᴏғ ᴄᴏᴍᴍᴀɴᴅ."
 general_3 : "Some **exception occured** while processing your query.\n\nException Type:- {0}"
 general_4 : "You're an anonymous admin in this chat group!\nRevert back to User Account From Admin Rights."
 general_5 : "You need to be admin with manage voice chat rights to perform this action."
-general_6 : "Bot isn't streaming on voice chat."
+general_6 : "ʙᴏᴛ ɪsɴ'ᴛ sᴛʀᴇᴀᴍɪɴɢ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ."
 
 # Classes - Telegram.py
 tg_1 : "Bot is **overloaded** with downloads right now.\n\n**Try After:** {0} (__expected time__)"
@@ -33,19 +33,19 @@ auth_4 : "Removed from Authorised Users List of this Group."
 auth_5 : "Targeted user is not an Authorised User."
 auth_6 : "Fetching Authorised Users... Please Wait"
 auth_7 : "**Authorised Users List[AUL]:**\n\n"
-auth_8 : "┗ Added By:-"
+auth_8 : "┗ ᴀᴅᴅᴇᴅ ʙʏ:-"
 
 # PLUGINS - Admins
-admin_1 : "Music is already Paused."
-admin_2 : "🎧 Voicechat Paused by {}!"
-admin_3 : "Music is already resumed."
-admin_4 : "🎧 Voicechat Resumed by {}!"
-admin_5 : "Music is already muted."
-admin_6 : "🎧 Voicechat Muted by {}!"
-admin_7 : "Music is already unmuted."
-admin_8 : "🎧 Voicechat Unmuted by {}!"
-admin_9 : "🎧 Voicechat End/Stopped by {}!"
-admin_10 : "🎧 Voicechat Skipped by {}!. No More Music in Queue."
+admin_1 : "ᴍᴜsɪᴄ ɪs ᴀʟʀᴇᴀᴅʏ ᴘᴀᴜsᴇᴅ."
+admin_2 : "🎧 ᴠᴏɪᴄᴇᴄʜᴀᴛ ᴘᴀᴜsᴇᴅ ʙʏ {}!"
+admin_3 : "ᴍᴜsɪᴄ ɪs ᴀʟʀᴇᴀᴅʏ ʀᴇsᴜᴍᴇᴅ."
+admin_4 : "🎧 ᴠᴏɪᴄᴇᴄʜᴀᴛ ʀᴇsᴜᴍᴇᴅ ʙʏ {}!"
+admin_5 : "ᴍᴜsɪᴄ ɪs ᴀʟʀᴇᴀᴅʏ ᴍᴜᴛᴇᴅ."
+admin_6 : "🎧 ᴠᴏɪᴄᴇᴄʜᴀᴛ ᴍᴜᴛᴇᴅ ʙʏ {}!"
+admin_7 : "ᴍᴜsɪᴄ ɪs ᴀʟʀᴇᴀᴅʏ ᴜɴᴍᴜᴛᴇᴅ."
+admin_8 : "🎧 ᴠᴏɪᴄᴇᴄʜᴀᴛ ᴜɴᴍᴜᴛᴇᴅ ʙʏ {}!"
+admin_9 : "🎧 ᴠᴏɪᴄᴇᴄʜᴀᴛ ᴇɴᴅ/sᴛᴏᴘᴘᴇᴅ ʙʏ {}!"
+admin_10 : "🎧 ᴠᴏɪᴄᴇᴄʜᴀᴛ sᴋɪᴘᴘᴇᴅ ʙʏ {}!. ɴᴏ ᴍᴏʀᴇ ᴍᴜsɪᴄ ɪɴ ǫᴜᴇᴜᴇ."
 admin_11 : "Error while changing stream to **{0}**\n\nPlease use /skip again."
 admin_12 : "Unable to skip to a specific track because of enabled loop play. Please disable loop play via `/loop disable` to use this feature."
 admin_13 : "Please use numeric numbers for specific tracks, like 1, 2 or 4 etc"
@@ -75,7 +75,7 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "🥀 Hello, My name is {0}.\n\nI'm a Telegram Superfast Vc Streaming Bot With Some Useful Features..\nFeel Lag Free Music 💖"
+start_2 : " ʜᴇʟʟᴏ, ᴍʏ ɴᴀᴍᴇ ɪs {0}.\n\nɪ'ᴍ ᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴜᴘᴇʀғᴀsᴛ ᴠᴄ sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs..\nғᴇᴇʟ ʟᴀɢ ғʀᴇᴇ ᴍᴜsɪᴄ ♡︎"
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
@@ -83,7 +83,7 @@ start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** 
 start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
 
 # Help
-help_1 : "Click on the buttons below for more information. If you're facing any problem in command you can contact my bot owner or ask in support chat.\n\nAll commands can be used with: /"
+help_1 : "ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ. ɪғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ɪɴ ᴄᴏᴍᴍᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ʙᴏᴛ ᴏᴡɴᴇʀ ᴏʀ ᴀsᴋ ɪɴ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ.\n\nᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /"
 help_2 : "Contact me in PM for help."
 
 # Settings
@@ -142,7 +142,7 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "🔄 Processing Query... Please Wait!"
+play_1 : "🔍"
 play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
@@ -222,17 +222,17 @@ song_10 : "Failed to upload on telegram from servers."
 song_11 : "Uploading Started\n\nUploading speed could be slow. Please hold on.."
 
 # Tools - Queue
-queue_1 : "Please Wait..Fetching Queue.."
+queue_1 : "🔎"
 queue_2 : "Queued List is empty. No tracks found"
 queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
 queue_4 : "⏳ Added to Queue at **#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2}\n👤**Added By:** {3}"
 queue_5 : "Only one track inside queue, Please add some more to check list"
 
 # All Streaming Lines
-stream_1 : "📡 **Started Streaming** 💡\n🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n👤**Requested By:** {3}"
-stream_2 : "📡 **Started Streaming via URL ** 💡\n👤**Requested By:** {0}"
-stream_3 : "📡 **Started Streaming** 💡\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n👤**Requested By:** {2}"
-stream_4 : "📡 **Started Streaming** 💡\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n👤**Requested By:** {3}"
+stream_1 : "🌹 **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** \n**🌬️ᴛɪᴛʟᴇ:** [{0}]({1})\n⌛️**ᴅᴜʀᴀᴛɪᴏɴ**: {2}\n👤**ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {3}"
+stream_2 : "🌹 **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ via URL ** \n👤**ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {0}"
+stream_3 : "🌹 **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** \n**🌬️ᴛɪᴛʟᴇ:** {0}\n⌛️**ᴅᴜʀᴀᴛɪᴏɴ**: {1}\n👤**ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {2}"
+stream_4 : "🌹 **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** \n**🌬️ᴛɪᴛʟᴇ:** [{0}]({1})\n⌛️**ᴅᴜʀᴀᴛɪᴏɴ**: {2}\n👤**ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {3}"
 
 # Inline Buttons
 
