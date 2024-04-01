@@ -178,7 +178,7 @@ class Userbot(Client):
             await self.five.start()
             try:
                 await self.one.join_chat("Luxurious_Group")
-                await self.one.join_chat("Luxurious_Network)
+                await self.one.join_chat("Luxurious_Network")
             except:
                 pass
             assistants.append(5)
